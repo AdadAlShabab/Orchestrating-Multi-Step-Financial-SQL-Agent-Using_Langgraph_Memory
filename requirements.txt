@@ -1,0 +1,6 @@
+langchain
+langgraph
+sqlite-utils
+openai
+faiss-cpu
+python-dotenv
