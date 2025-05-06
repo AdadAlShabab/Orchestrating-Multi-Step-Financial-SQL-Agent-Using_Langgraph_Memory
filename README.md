@@ -1,4 +1,4 @@
-# Orchestrating Multi Step Financial SQL Agent Using Langgraph LangChain, FAISS Memory, and SQLite
+# Orchestrating Multi Step Financial SQL Agent Using Langgraph, LangChain, FAISS Memory, and SQLite
 
 ## 🧠 Project Overview
 
