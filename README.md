@@ -8,7 +8,7 @@ This repository demonstrates a production-ready architecture for a **multi-step 
 - **[LangChain](https://www.langchain.com/)**: For creating SQL agents and handling database toolkits.
 - **OpenAI LLMs**: Used via `ChatOpenAI` to interpret user intent and generate SQL queries.
 - **FAISS-based Vector Store**: Stores and retrieves semantic memory to provide historical context.
-- **SQLite**: A lightweight SQL database backend with sample financial data.
+- **SQLite**: A lightweight SQL database backend with sample financial data
 
 ---
 
