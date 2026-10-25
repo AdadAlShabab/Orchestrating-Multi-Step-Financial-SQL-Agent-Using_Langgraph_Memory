@@ -1,7 +1,6 @@
 # Orchestrating Multi Step Financial SQL Agent Using Langgraph, LangChain, FAISS Memory, and SQLite
 
 ## 🧠 Project Overview
-
 This repository demonstrates a production-ready architecture for a **multi-step Financial SQL Agent** using cutting-edge LLM tooling. It leverages a combination of:
 
 - **[LangGraph](https://github.com/langchain-ai/langgraph)**: For orchestrating multi-step agent logic.
